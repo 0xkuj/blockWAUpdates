@@ -1,0 +1,9 @@
+Package: com.0xkuj.blockwaupdates
+Name: Block WA Updates
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Blocks Whatsapp message saying you must update
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
